@@ -1,4 +1,6 @@
 # Spyder
+
+[![Join the chat at https://gitter.im/bulletind/spyder](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bulletind/spyder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Let's snoop all those data changes, shall we.
 Spyder reads from the oplog and creates a channel out of that. 
 
